@@ -4,7 +4,8 @@ body {
     box-sizing: border-box;
 }
 
-h1 , ul , p , h2 , h3 , h4 {
+h1 , ul , p , h2 , h3 , h4,
+blockquote {
     margin: 0px;
     padding: 0px;
     list-style: none;
